@@ -1,0 +1,9 @@
+baseURL = "https://monsieurlaine.com/"
+copyright = "© 2026 Monsieur Laine"
+defaultContentLanguage = "fr"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+locale = "fr"
+theme = "gallery"
+timeZone = "Europe/Paris"
+title = "Monsieur Laine"
