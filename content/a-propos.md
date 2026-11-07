@@ -7,7 +7,7 @@ menu:
 rss_ignore: true
 ---
 
-# Bienvenue chez Monsieur Laine 🧶
+# Bienvenue chez Monsieur Laine
 
 Bienvenue dans mon univers dédié à l'art du crochet et au fait main !
 
@@ -15,7 +15,7 @@ Bienvenue dans mon univers dédié à l'art du crochet et au fait main !
 
 ---
 
-## 🧸 Ce que vous trouverez ici
+## Ce que vous trouverez ici
 
 * **Des créations en crochet faites main :** Amigurumis, doudous, peluches originales et objets de décoration.
 * **Des patrons & tutoriels :** Des guides détaillés pour vous accompagner pas à pas dans la réalisation de vos propres modèles au crochet.
@@ -23,15 +23,15 @@ Bienvenue dans mon univers dédié à l'art du crochet et au fait main !
 
 ---
 
-## 📸 Suivez l'aventure & Retrouvez la boutique
+## Suivez l'aventure & Retrouvez la boutique
 
 Retrouvez les coulisses de la création, les nouveautés et les coulisses des ateliers sur les réseaux sociaux, ou visitez la boutique en ligne pour adopter une création :
 
 * **Instagram :** [@monsieurlaine](https://www.instagram.com/) *(Tutoriels rapides, coulisses et nouveautés)*
 * **TikTok :** [@monsieurlaine](https://www.tiktok.com/) *(Vidéos créatives & process de fabrication)*
-* **Boutique Etsy :** [Monsieur Laine sur Etsy](https://www.etsy.com/shop/monsieurlaine) *(Commandes de peluches & téléchargement de patrons)*
+* **Boutique Etsy :** [Monsieur Laine sur Etsy](https://www.etsy.com/) *(Commandes de peluches & téléchargement de patrons)*
 
 ---
 
-> 📧 **Une question, une commande personnalisée ou une collaboration ?**
-> N'hésitez pas à me contacter directement par e-mail à : [contact@monsieurlaine.com](mailto:contact@monsieurlaine.com)
+> **Une question, une commande personnalisée ou une collaboration ?**
+> N'hésitez pas à me contacter directement par e-mail à [contact@monsieurlaine.com](mailto:contact@monsieurlaine.com).
